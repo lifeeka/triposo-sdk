@@ -1,9 +1,8 @@
 {
-  "name": "lifeeka/tripso-sdk",
+  "name": "lifeeka/triposo-sdk",
   "type": "library",
-  "description": "Tripso Api SDK",
+  "description": "Triposo Api SDK",
   "license": "MIT",
-  "version": "dev-master",
   "authors": [
     {
       "name": "Supun Praneeth",
@@ -25,7 +24,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Lifeeka\\TripsoSDK\\": "src/"
+      "Lifeeka\\TriposoSDK\\": "src/"
     }
   },
   "require-dev": {

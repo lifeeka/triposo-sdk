@@ -1,9 +1,9 @@
 <?php
 
-namespace Lifeeka\TripsoSDK;
+namespace Lifeeka\TriposoSDK;
 
-use Lifeeka\TripsoSDK\HttpClient\HttpClientInterface;
-use Lifeeka\TripsoSDK\Parameter\Parameter;
+use Lifeeka\TriposoSDK\HttpClient\HttpClientInterface;
+use Lifeeka\TriposoSDK\Parameter\Parameter;
 
 class Client
 {

@@ -1,5 +1,5 @@
 <?php
-namespace Lifeeka\TripsoSDK\HttpClient;
+namespace Lifeeka\TriposoSDK\HttpClient;
 
 interface HttpClientInterface
 {

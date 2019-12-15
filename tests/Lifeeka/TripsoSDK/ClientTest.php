@@ -1,10 +1,10 @@
 <?php
 
-namespace Lifeeka\TripsoSDK;
+namespace Lifeeka\TriposoSDK;
 
-use Lifeeka\TripsoSDK\HttpClient\GuzzleClient;
-use Lifeeka\TripsoSDK\Parameter\BasicQuery;
-use Lifeeka\TripsoSDK\Parameter\Parameter;
+use Lifeeka\TriposoSDK\HttpClient\GuzzleClient;
+use Lifeeka\TriposoSDK\Parameter\BasicQuery;
+use Lifeeka\TriposoSDK\Parameter\Parameter;
 use PHPUnit\Framework\TestCase;
 
 class ClientTest extends TestCase

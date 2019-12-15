@@ -1,6 +1,6 @@
 <?php
 
-namespace Lifeeka\TripsoSDK\Parameter;
+namespace Lifeeka\TriposoSDK\Parameter;
 
 class BasicQuery implements QueryInterface
 {

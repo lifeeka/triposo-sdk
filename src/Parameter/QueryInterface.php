@@ -1,5 +1,5 @@
 <?php
-namespace Lifeeka\TripsoSDK\Parameter;
+namespace Lifeeka\TriposoSDK\Parameter;
 
 interface QueryInterface
 {
